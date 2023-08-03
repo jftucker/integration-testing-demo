@@ -1,7 +1,7 @@
 {
   "project": {
-    "version": "1.0.0-beta.26",
-    "name": "integration-testing-demo"
+    "version": "14.0.5",
+    "name": "testing-demo"
   },
   "apps": [
     {
